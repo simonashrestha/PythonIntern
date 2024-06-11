@@ -1,13 +1,13 @@
 import asyncio
 
 async def first_statement():
-    print("First statement executed")
+    print("First statement executedd")
 
 async def second_statement():
-    print("Second statement executed")
+    print("Second statement executedd")
 
 async def third_statement():
-    print("Third statement executed")
+    print("Third statement executedd")
 
 async def main():
     await first_statement()
